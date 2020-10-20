@@ -4,6 +4,10 @@ The event is planned in first quarter of 2021, inviting all enthusiasts to join 
 
 See you there!
 
+Follow us on - https://twitter.com/NodebotsI
+
+Write US to - nodebotsindia@gmail.com
+
 <!--
 **nodebotsindia/NodeBotsIndia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
