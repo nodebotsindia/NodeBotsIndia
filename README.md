@@ -1,4 +1,8 @@
-### Hi there 👋
+We'll meet up in Pune, India and hack on Arduinos, Rasberry Pis, quadcopters, robots, and any other gizmos that need more input.
+
+The event is planned in first quarter of 2021, inviting all enthusiasts to join US in hands on non-sim hackathon and coding challenges. You will get to learn new tweaks of Arduino and some more on Sphero.
+
+See you there!
 
 <!--
 **nodebotsindia/NodeBotsIndia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
